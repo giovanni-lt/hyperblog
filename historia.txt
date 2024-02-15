@@ -1,5 +1,5 @@
 Este es un archivo para practicar Git y Github 
 
-Estoy practicando Python y SQL
+Estoy practicando Python , SQL y tambien Git
 
 Me gusta el deporte
