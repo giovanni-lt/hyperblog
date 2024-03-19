@@ -4,4 +4,4 @@ Estoy practicando Python , SQL y también Git.
 
 Me gusta el deporte, viajar y comer.
 
-Tengo una linda perrita.
+txt de práctica
